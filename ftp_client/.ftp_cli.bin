@@ -1,0 +1,8 @@
+touch ftp_cli.c
+touch ftp_cli.h
+touch tools.c
+touch tools.h
+touch ftp_cli.conf
+touch Makefile
+ls > ftp_cli.conf 
+ls > Makefile
